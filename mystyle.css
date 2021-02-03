@@ -1,0 +1,98 @@
+
+#Header a:hover
+{
+    color: #FFF
+}
+
+#bg-img
+{
+    background: url('https://gdurl.com/cjQE');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+
+#About
+{
+    margin-top: -200px;
+}
+#About .fa
+{
+    color: white
+}
+#About span
+{
+   padding: 10px 20px 10px 20px;
+}
+#About hr
+{
+    border-width: 2px;
+    margin-top: 6px
+}
+#Education span
+{
+     padding: 10px 20px 10px 20px;
+}
+#Education hr
+{
+    border-width: 2px;
+    margin-top: 6px
+}
+#Project span
+{
+     padding: 10px 20px 10px 20px;
+}
+#Project hr
+{
+    border-width: 2px;
+    margin-top: 6px
+}
+#Skills span
+{
+     padding: 10px 20px 10px 20px;
+}
+#Skills hr
+{
+    border-width: 2px;
+    margin-top: 6px
+}
+
+#Courses span
+{
+     padding: 10px 20px 10px 20px;
+}
+#Courses hr
+{
+    border-width: 2px;
+    margin-top: 6px
+}
+
+#Achievement span
+{
+     padding: 10px 20px 10px 20px;
+}
+#Achievement hr
+{
+    border-width: 2px;
+    margin-top: 6px
+}
+
+#Interests span
+{
+     padding: 10px 20px 10px 20px;
+}
+#Interests hr
+{
+    border-width: 2px;
+    margin-top: 6px
+}
+
+#Contact span
+{
+     padding: 10px 20px 10px 20px;
+}
+#Contact hr
+{
+    border-width: 2px;
+    margin-top: 6px
+}
