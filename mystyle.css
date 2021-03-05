@@ -29,6 +29,15 @@
     border-width: 2px;
     margin-top: 6px
 }
+#Experience span
+{
+     padding: 10px 20px 10px 20px;
+}
+#Experience hr
+{
+    border-width: 2px;
+    margin-top: 6px
+}
 #Education span
 {
      padding: 10px 20px 10px 20px;
